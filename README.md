@@ -3,6 +3,6 @@
 
 
 # 配置apt源
-查看 /etc/apt/sources.list 
+查看 /etc/apt/sources.list  
 sudo apt update
 
